@@ -102,12 +102,6 @@ This basic example can be extended in several ways:
 3. Add cloud storage support (S3, Azure Blob, etc.)
 4. Incorporate data validation rules
 
-## Best Practices Demonstrated
-
-- Separation of pipeline components for testability
-- Testing both happy paths and error conditions
-- Integration testing for complete workflows
-- Test file management with setup/teardown
 
 ## License
 
