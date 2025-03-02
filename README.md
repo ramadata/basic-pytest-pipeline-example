@@ -5,7 +5,7 @@ This repository demonstrates best practices for testing data engineering pipelin
 ## Project Structure
 
 ```
-data_pipeline/
+basic_pipeline/
 ├── pipeline.py         # Main ETL pipeline implementation
 ├── README.md           # This file
 └── tests/
