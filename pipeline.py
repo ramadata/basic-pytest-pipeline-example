@@ -7,7 +7,7 @@
 #       sample_input.csv
 #       expected_output.csv
 
-# pipeline.py
+
 import pandas as pd
 from typing import Dict, Any
 
@@ -57,5 +57,3 @@ class DataPipeline:
             print(f"Pipeline failed: {e}")
             return False
 
-
-# tests/test_pipeline.py

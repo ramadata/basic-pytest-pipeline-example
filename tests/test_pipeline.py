@@ -121,3 +121,4 @@ def test_error_handling():
     
     success = pipeline.run(config)
     assert not success  # Should handle the error gracefully
+    
